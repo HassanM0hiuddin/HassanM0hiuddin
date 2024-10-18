@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #4CAF50;">👋 Hi, I'm Hassan Mohiuddin</h1>
 <h3 align="center" style="color: #673AB7;">🌐 Web Developer</h3>
 
-<div align="center">
+<div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
     <img alt="Coding" width="200" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
     <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="200" alt="Coding GIF">
 </div>
@@ -11,12 +11,14 @@
 </p>
 
 ### 🌟 About Me
-- 🔭 Currently working on: **Skill Sync Pro**
-- 🌱 Learning: **React Native**
-- 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/)
-- 💬 Ask me about: **MERN, Android, Java**
-- 📫 Reach me at: [hassanmohiuddin73@gmail.com](mailto:hassanmohiuddin73@gmail.com)
-- ⚡ Fun fact: **I love strategy games!**
+<div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
+    - 🔭 Currently working on: **Skill Sync Pro**<br>
+    - 🌱 Learning: **React Native**<br>
+    - 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/)<br>
+    - 💬 Ask me about: **MERN, Android, Java**<br>
+    - 📫 Reach me at: [hassanmohiuddin73@gmail.com](mailto:hassanmohiuddin73@gmail.com)<br>
+    - ⚡ Fun fact: **I love strategy games!**
+</div>
 
 <h3 align="left" style="color: #FF5722;">🛠 Languages and Tools:</h3>
 <p align="left">
@@ -43,7 +45,7 @@
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
 </p>
 
-<div align="center">
+<div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
     <h3 style="color: #3F51B5;">📊 My GitHub Stats</h3>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanm0hiuddin&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hassanm0hiuddin&show_icons=true&locale=en" alt="GitHub Stats" /></p>
