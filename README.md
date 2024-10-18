@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Hassan Mohiuddin</h1>
-<h3 align="center">🌐 Web Developer</h3>
+<h1 align="center" style="color: #4CAF50;">👋 Hi, I'm Hassan Mohiuddin</h1>
+<h3 align="center" style="color: #673AB7;">🌐 Web Developer</h3>
 
 <div align="center">
     <img alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -9,15 +9,15 @@
     <img src="https://komarev.com/ghpvc/?username=hassanm0hiuddin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### About Me
-- 🔭 I’m currently working on **Skill Sync Pro**
-- 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [my portfolio](https://hassanm0hiuddin.github.io/Portfolio/)
-- 💬 Ask me about **MERN, Android, Java**
-- 📫 How to reach me: **[hassanmohiuddin73@gmail.com](mailto:hassanmohiuddin73@gmail.com)**
-- ⚡ Fun fact: **I like strategy games**
+### 🌟 About Me
+- 🔭 Currently working on: **Skill Sync Pro**
+- 🌱 Learning: **React Native**
+- 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/)
+- 💬 Ask me about: **MERN, Android, Java**
+- 📫 Reach me at: [hassanmohiuddin73@gmail.com](mailto:hassanmohiuddin73@gmail.com)
+- ⚡ Fun fact: **I love strategy games!**
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left" style="color: #FF5722;">🛠 Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
@@ -43,6 +43,7 @@
 </p>
 
 <div align="center">
+    <h3 style="color: #3F51B5;">📊 My GitHub Stats</h3>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanm0hiuddin&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hassanm0hiuddin&show_icons=true&locale=en" alt="GitHub Stats" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanm0hiuddin&" alt="Streak Stats" /></p>
