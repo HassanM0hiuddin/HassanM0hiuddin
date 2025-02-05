@@ -12,7 +12,7 @@
 </p>
 
 ### 🌟 About Me
-- 🔭 Currently working on: **Skill Sync Pro**
+- 🔭 Currently working on: **Mapsimum Mobile**
 - 🌱 Learning: **React Native**
 - 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/) [SkillSyncPro](https://github.com/HassanM0hiuddin/SkillSyncPro)
 - 💬 Ask me about: **MERN, Android, Java**
