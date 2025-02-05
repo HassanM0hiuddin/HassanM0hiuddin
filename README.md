@@ -14,7 +14,7 @@
 ### 🌟 About Me
 - 🔭 Currently working on: **Skill Sync Pro**
 - 🌱 Learning: **React Native**
-- 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/)
+- 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/) [SkillSyncPro](https://github.com/HassanM0hiuddin/SkillSyncPro)
 - 💬 Ask me about: **MERN, Android, Java**
 - 📫 Reach me at: [hassanmohiuddin73@gmail.com](mailto:hassanmohiuddin73@gmail.com)
 - ⚡ Fun fact: **I love strategy games!**
