@@ -12,12 +12,12 @@
 </p>
 
 ### 🌟 About Me
-- 🔭 Currently working on: **Mapsimum Mobile**
-- 🌱 Learning: **React Native**
+- 🔭 Currently working on: **Perception and Insights Explorer**
+- 🌱 Learning: **Azure cognative services**
 - 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/) [SkillSyncPro](https://github.com/HassanM0hiuddin/SkillSyncPro)
-- 💬 Ask me about: **MERN, Android, Java**
+- 💬 Ask me about: **MERN stack development**
 - 📫 Reach me at: [hassanmohiuddin73@gmail.com](mailto:hassanmohiuddin73@gmail.com)
-- ⚡ Fun fact: **I love strategy games!**
+
 
 <h3 align="left" style="color: #FF5722;">🛠 Languages and Tools:</h3>
 <p align="left">
