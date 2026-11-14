@@ -1,53 +1,185 @@
-
-<h1 align="center" style="color: #4CAF50;">👋 Hi, I'm Hassan Mohiuddin</h1>
-<h3 align="center" style="color: #673AB7;">🌐 Web Developer</h3>
-
 <div align="center">
-    <img alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-    <br>
-    <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" alt="Coding GIF">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hassan%20Mohiuddin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20" alt="header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+scalable+web+%26+AI-powered+applications;LLMs+%7C+RAG+%7C+FastAPI+%7C+React+%7C+Next.js;Cloud-native+on+Azure+%26+AWS+with+Docker+%26+CI%2FCD)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hassanm0hiuddin&label=Profile%20views&color=0e75b6&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0e75b6?style=flat&logo=githubpages&logoColor=white)](https://hassanm0hiuddin.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-hassanmohiuddin73@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hassanmohiuddin73@gmail.com)
+
 </div>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=hassanm0hiuddin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
 
-### 🌟 About Me
-- 🔭 Currently working on: **Perception and Insights Explorer**
-- 🌱 Learning: **Azure cognative services**
-- 👨‍💻 Check out my projects: [My Portfolio](https://hassanm0hiuddin.github.io/Portfolio/) [SkillSyncPro](https://github.com/HassanM0hiuddin/SkillSyncPro)
-- 💬 Ask me about: **MERN stack development**
-- 📫 Reach me at: [hassanmohiuddin73@gmail.com](mailto:hassanmohiuddin73@gmail.com)
+## 👨‍💻 About Me
 
+Full Stack Software Engineer with **4+ years of experience** building scalable web and AI-powered applications. I work across the stack with **React, Next.js, Node.js, and FastAPI**, and I integrate **LLMs and Retrieval-Augmented Generation (RAG)** into production systems. I care about performant, production-ready software that delivers measurable business value.
 
-<h3 align="left" style="color: #FF5722;">🛠 Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
-</p>
+- 💼 Software Developer at **Resilient Technologies Ltd** (remote)
+- 🤖 Building LLM apps, RAG pipelines, and OCR + Mistral-based document processing
+- ⛓ Contributing to Blockchain / Web3 work (Solidity, Polygon, ethers.js)
+- ☁️ Cloud-native deployments on **Azure & AWS** with **Docker, Kubernetes, CI/CD**
+- 🎓 BS Software Engineering, COMSATS University Islamabad
+- 📍 Islamabad, Pakistan 🇵🇰
+- 💬 Ask me about: **RAG, LLM pipelines, FastAPI, MERN / Next.js, Azure**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**AI & Machine Learning**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+**Blockchain & Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+
+**Testing & Collaboration**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**Integrations I've shipped:** Stripe · Google Business Profile · Google OAuth 2.0 · Google Pub/Sub · Google Analytics & Tag Manager · SendGrid / AWS SES · Google Cloud TTS & Translation · DataForSEO · IPFS/Pinata · Alchemy · Privy
+
+---
+
+## 🚀 What I Build
+
+| Area | Examples |
+|------|----------|
+| 🧠 **RAG & LLM Apps** | Contextual AI search, chatbots, analytics over unstructured feedback |
+| 📄 **Document AI** | OCR + Mistral-based extraction and intelligent document analysis |
+| ⚙️ **Backend Services** | Async, high-throughput FastAPI / Node.js APIs, secure REST, OAuth2 |
+| 🖥 **Full Stack Apps** | React / Next.js frontends with MongoDB, MySQL, or PostgreSQL |
+| ⛓ **Web3** | Smart contracts, NFT standards (ERC-721/1155), wallet integrations |
+| 📦 **Deployment** | Containerized services on Azure/AWS, CI/CD with automated testing |
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 Perception and Insights Explorer</h3>
+      <p>AI-powered analytics platform that aggregates, analyzes, and queries business data from sources like Google Business Profile and Stripe, with RAG-driven contextual search and insights.</p>
+      <sub><b>React · Node · Express · MongoDB · MySQL · FastAPI · LangChain · Docker · Azure/AWS</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/HassanM0hiuddin/SkillSyncPro">SkillSync Pro</a></h3>
+      <p>Recruitment platform with skill assessments and automated interviews, plus a RAG chatbot that answers candidate questions about job postings.</p>
+      <sub><b>React · Node · Express · MongoDB · FastAPI</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Resilient Technologies Website</h3>
+      <p>Full marketing site for a UK-based AI consultancy: custom UI components, category-filtered blog with a custom JS dropdown and PHP hooks, fully responsive with server-side caching.</p>
+      <sub><b>WordPress · Divi · PHP · JavaScript · HTML/CSS</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 MadTalk</h3>
+      <p>Medical-domain ChatGPT-style assistant that answers disease queries and analyzes uploaded images for lung, kidney, and heart conditions.</p>
+      <sub><b>React · Node · Express · MongoDB · Python</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Mapsimum Mobile</h3>
+      <p>Ride-booking mobile app offering cars, bikes, and shared rides, with a dedicated Driver App.</p>
+      <sub><b>React Native · Node · Express · MongoDB</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍲 Nawalah</h3>
+      <p>Web app that cuts food waste by connecting restaurants and grocery stores with NGOs that redistribute surplus food.</p>
+      <sub><b>React · Node · Express · Firebase</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Software Developer | Resilient Technologies Ltd | 06/2025 – Present |
+| Full Stack Developer | Mobipixels | 06/2025 – 06/2026 |
+| React Native Developer (contract) | Mapsimum | 09/2024 – 03/2025 |
+| Software Engineer | DevHawks | 08/2022 – 01/2025 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-    <h3 style="color: #3F51B5;">📊 My GitHub Stats</h3>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanm0hiuddin&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hassanm0hiuddin&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanm0hiuddin&" alt="Streak Stats" /></p>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hassanm0hiuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanm0hiuddin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanm0hiuddin&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+Open to interesting projects and conversations about AI and full stack engineering.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanmohiuddin73@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white)](https://hassanm0hiuddin.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanm0hiuddin)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+
 </div>
