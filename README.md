@@ -120,26 +120,14 @@ Full Stack Software Engineer with **4+ years of experience** building scalable w
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Resilient Technologies Website</h3>
-      <p>Full marketing site for a UK-based AI consultancy: custom UI components, category-filtered blog with a custom JS dropdown and PHP hooks, fully responsive with server-side caching.</p>
-      <sub><b>WordPress · Divi · PHP · JavaScript · HTML/CSS</b></sub>
-    </td>
-    <td width="50%" valign="top">
       <h3>🩺 MadTalk</h3>
       <p>Medical-domain ChatGPT-style assistant that answers disease queries and analyzes uploaded images for lung, kidney, and heart conditions.</p>
       <sub><b>React · Node · Express · MongoDB · Python</b></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🚗 Mapsimum Mobile</h3>
       <p>Ride-booking mobile app offering cars, bikes, and shared rides, with a dedicated Driver App.</p>
       <sub><b>React Native · Node · Express · MongoDB</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍲 Nawalah</h3>
-      <p>Web app that cuts food waste by connecting restaurants and grocery stores with NGOs that redistribute surplus food.</p>
-      <sub><b>React · Node · Express · Firebase</b></sub>
     </td>
   </tr>
 </table>
